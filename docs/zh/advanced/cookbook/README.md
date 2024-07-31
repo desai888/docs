@@ -8,3 +8,4 @@
 于是就有了 Cookbook 。
 
 每个案例都会针对某个特定的方面，通过提供更详细的示例来向你展示 VuePress 的用法和其他可能性。
+![image](https://github.com/user-attachments/assets/b9861071-80b1-42cb-8670-4072aebedc18)
